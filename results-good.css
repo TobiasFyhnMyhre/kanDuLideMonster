@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #111;
+}
+
+.resultRespnseGood {
+    font-size: 42px;
+    font-family: gobold;
+    text-transform: lowercase;
+    color: #707070;
+    position: absolute;
+    top: 242px;
+    left: 61px;;
+}
+
+.yourResults {
+    font-size: 46px;
+    font-family: gobold;
+    text-transform: lowercase;
+    color: #707070;
+    position: absolute;
+    top: 100px;
+    left: 345px;
+}
+
+.tryAgain {
+    font-size: 16px;
+    font-family: gobold;
+    text-transform: lowercase;
+    color: #707070;
+    position: absolute;
+    top: 400px;
+    left: 442px;
+    text-decoration: none;
+}
+
+.resultRespnseBad {
+    font-size: 25px;
+    font-family: gobold;
+    text-transform: lowercase;
+    color: #707070;
+    position: absolute;
+    top: 242px;
+    left: 61px;;
+}

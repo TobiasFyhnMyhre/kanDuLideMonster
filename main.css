@@ -1,0 +1,76 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.buttondone {
+    position: absolute;
+    top: 43%;
+    left: 360px;
+    color: black;
+    display: normal;
+    border-radius: 5px;
+    border: 0px;
+    height: 20px;
+    width: 40px;
+    font-family: arial;
+    color: #000000;
+}
+
+.newHeader {
+    font-family: arial;
+    color: #ffffff;
+    position: absolute;
+    top: 57%;
+    left: 9%;
+}
+
+body {
+    background-color: #111111;
+    background-image: url("https://wallpaperaccess.com/full/210154.jpg");
+    background-repeat: none;
+    background-size: cover;
+    
+}
+
+.startTheTest {
+    font-family: arial;
+    text-decoration: none;
+    color: #ffffff;
+    position: absolute;
+    top: 85%;
+    left: 380px;
+    font-size: 30px;
+}
+
+.userInput {
+    position: absolute;
+    top: 43%;
+    left: 43%;
+    background-color: #eee;
+    border: 0px;
+    width: 150px;
+    height: 19px;
+    border-radius: 5px;
+    padding-left: 5px;;
+}
+
+.userInput::placeholder {
+    font-family: arial;
+    padding-left: 5px;
+    color: #adadad;
+}
+
+.no {
+    font-size: 15px;;
+    position: absolute;
+    left: 20px;;
+    top: 35px;;
+}
+
+.ya {
+    font-size: 15px;;
+    position: absolute;
+    left: 20px;;
+    top: 55px;;
+}

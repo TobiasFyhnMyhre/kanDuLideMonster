@@ -1,0 +1,76 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #111;
+}
+
+.doYouLikeMonster {
+    font-size: 50px;
+    font-family: gobold;
+    position: absolute;
+    left: 150px;
+    right: 150px;
+    top: 100px;
+    color: #707070;
+}
+
+.yesButton {
+    position: absolute;
+    left: 403px;
+    top: 250px;;
+    border-radius: 5px;
+    border: 0px;
+    width: 150px;
+    height: 35px;
+    font-size: 25px;
+    font-family: gobold;
+    color: #707070;
+    background-color: #363636;
+}
+
+.noButton {
+    position: absolute;
+    left: 403px;
+    top: 340px;;
+    border-radius: 5px;
+    border: 0px;
+    width: 150px;
+    height: 35px;
+    font-size: 24px;
+    font-family: gobold;
+    color: #707070;
+    background-color: #363636;
+}
+
+.same {
+    font-family: gobold;
+    color: #707070;
+    position: absolute;
+    left: 461px;
+    top: 300px;
+    font-size: 15px;
+}
+
+
+.fuckYou {
+    font-family: gobold;
+    color: #707070;
+    position: absolute;
+    left: 448px;
+    top: 401px;
+    font-size: 15px;
+}
+
+.results {
+    font-family: gobold;
+    color: #707070;
+    position: absolute;
+    left: 435px;
+    top: 185px;
+    text-decoration: underline;
+    color: red;
+    font-size: 27px;
+}
